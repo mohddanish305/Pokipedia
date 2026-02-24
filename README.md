@@ -37,16 +37,16 @@ shared_preferences:
 📸 Screenshots
 🔐 Login Screen
 
-![splash Screen](assets/screenshots/screenshot1.png)
-![login Screen](assets/screenshots/screenshot2.png)
-![Register Screen](assets/screenshots/screenshot3.png)
+![splash Screen](assets/screenshots/Screenshot1.png)
+![login Screen](assets/screenshots/Screenshot2.png)
+![Register Screen](assets/screenshots/Screenshot3.png)
 
 
 🏠 Pokémon List Screen
-![Home Screen](assets/screenshots/screenshot4.png)
-![Home Screen](assets/screenshots/screenshot5.png)
-![Details Screen](assets/screenshots/screenshot6.png)
-![Favourite Screen](assets/screenshots/screenshot7.png)
+![Home Screen](assets/screenshots/Screenshot4.png)
+![Home Screen](assets/screenshots/Screenshot5.png)
+![Details Screen](assets/screenshots/Screenshot6.png)
+![Favourite Screen](assets/screenshots/Screenshot7.png)
 
 
 
