@@ -37,11 +37,16 @@ shared_preferences:
 📸 Screenshots
 🔐 Login Screen
 
-
+![splash Screen](assets/screenshots/screenshot1.png)
+![login Screen](assets/screenshots/screenshot2.png)
+![Register Screen](assets/screenshots/screenshot3.png)
 
 
 🏠 Pokémon List Screen
-
+![Home Screen](assets/screenshots/screenshot4.png)
+![Home Screen](assets/screenshots/screenshot5.png)
+![Details Screen](assets/screenshots/screenshot6.png)
+![Favourite Screen](assets/screenshots/screenshot7.png)
 
 
 
